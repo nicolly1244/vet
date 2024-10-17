@@ -11,6 +11,12 @@ criaCartao(
 )
 
 criaCartao(
+    'Doenças',
+    'Qual zoonose afeta o sistema nervoso central trasmitida pelo vírus Lyssavirus?',
+    'Raiva'
+)
+
+criaCartao(
     'Grande Porte',
     'Qual animal tem glândulas sudoríparas pelo corpo todo?',
     'O cavalo'
@@ -18,13 +24,13 @@ criaCartao(
 
 criaCartao(
     'Raças',
-    'Qual raça de cachorro tem mais tendência a ter alopecia?',
-    'Yorkshire Terrier'
+    'Qual é a raça mais comum de vaca leiteira?',
+    'Holandesa'
 )
 
 criaCartao(
-    'Raças',
-    'Qual raça de cachorro tem mais tendência a ter alopecia?',
-    'Yorkshire Terrier'
+    'Doenças',
+    'Qual zoonose é transmitida pelo protozoário após ser liberado pelas fezes de mamíferos e passar por uma fase na terra?',
+    'Toxoplasmose'
 )
 
